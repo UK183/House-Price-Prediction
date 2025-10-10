@@ -1,4 +1,4 @@
-🏡 House Price Prediction
+<h1>🏡 House Price Prediction</h1>
 
 An end-to-end machine learning project to predict house prices using regression models. Built with Python and deployed via a Flask web app to demonstrate data science, model engineering, and full-stack skills.
 
