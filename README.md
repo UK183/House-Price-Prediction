@@ -2,7 +2,7 @@
 
 An end-to-end machine learning project to predict house prices using regression models. Built with Python and deployed via a Flask web app to demonstrate data science, model engineering, and full-stack skills.
 
-🔍 Project Overview:
+<b>🔍 Project Overview:</b>
 This project develops and deploys a House price prediction system using historical housing data. It involves:
 - Data preprocessing & feature engineering  
 - Model training, evaluation & comparison  
@@ -11,7 +11,7 @@ This project develops and deploys a House price prediction system using historic
 
 It aims to showcase skills in machine learning, data engineering,  & full-stack deployment — making it ideal work sample material for roles in Data Science, Machine Learning Engineering, or Predictive Analytics.
 
-🛠️ Key Features & Components
+<b>🛠️ Key Features & Components:</b>
 - Data Handling & Feature Engineering 
   Clean, transform, and engineer features from raw housing data to improve model accuracy.
 - Model Training & Evaluation
@@ -21,7 +21,7 @@ It aims to showcase skills in machine learning, data engineering,  & full-stack 
 - Web Application (Flask)
   A user-friendly UI where users enter house attributes and get a price prediction in real time.
 
-📂 Project Structure
+<b>📂 Project Structure:</b>
 
 House-Price-Prediction/
 
@@ -38,7 +38,7 @@ House-Price-Prediction/
 └── README.md # This readme
 
 
-💻 Technologies & Skills Demonstrated
+<b>💻 Technologies & Skills Demonstrated:</b>
 
 | Area | Tools / Libraries |
 |------|--------------------|
@@ -48,7 +48,7 @@ House-Price-Prediction/
 | Web Deployment | Flask |
 | Version Control & Project Structure | Git & GitHub |
 
-🚀 Installation & Running:
+<b>🚀 Installation & Running:</b>
 Prerequisites 
 - Python 3.7+  
 - pip (Python package installer)  
@@ -59,25 +59,18 @@ Steps
    git clone https://github.com/UK183/House-Price-Prediction.git
    cd House-Price-Prediction
    
-Install dependencies:
+2. Install dependencies:
+    ```bash
+    pip install -r requirements.txt
 
-bash
-
-Copy code:
-pip install -r requirements.txt
-
-Run the Flask application:
-
-bash
-
-Copy code:
-python app.py
+3. Run the Flask application:
+    ```bash
+    python app.py
 
 Open your browser and navigate to http://127.0.0.1:5000 to use the prediction UI.
 
 
-
-📈 Performance & Results:
+<b>📈 Performance & Results:</b>
 
 Model evaluation metrics (RMSE, MAE, R²) documented in the notebook.
 
@@ -88,7 +81,7 @@ Deployed model used via API endpoint in Flask app.
 You can see all results, experiments, and visualizations in House_price_prediction.ipynb.
 
 
-🧠 Key Learnings & Achievements:
+<b>🧠 Key Learnings & Achievements:</b>
 
 End-to-end experience—from raw data to live web app deployment.
 
