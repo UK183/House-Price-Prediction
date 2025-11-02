@@ -87,8 +87,16 @@ End-to-end experience—from raw data to live web app deployment.
 
 Hands-on exposure to feature engineering, model tuning, and deployment challenges.
 
+
 Ability to package ML pipelines for production and embed them in a user interface.
 
 
 
 ⚠️ Note: This project is for educational/demonstration purposes. Real-world implementation would require additional considerations like more extensive validation, error handling, security, and scalability.
+
+---
+
+### 👤 Author
+[**Kazi Umar**](https://github.com/UK183)<br>
+Linkedin profile: https://www.linkedin.com/in/umar-kazi18  
+💼 Data Analyst | ML Engineer | Data Science & AI Enthusiast | Power BI | Python | SQL
