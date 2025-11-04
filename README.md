@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="output image.PNG" width="60%"/>
+  <img src="output image.PNG" width="50%"/>
 
 </div>
 <h1>🏡 House Price Prediction</h1>
